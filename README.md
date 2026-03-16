@@ -42,3 +42,18 @@ excel-data-analysis-python
 │
 ├── .gitignore
 └── README.md
+
+
+## Example Visualizations
+
+### Sales by Category
+
+![Sales by Category](output/sales_by_category.png)
+
+### Profit by Category
+
+![Profit by Category](output/profit_by_category.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](output/monthly_sales_trend.png)
