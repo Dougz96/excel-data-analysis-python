@@ -1,5 +1,10 @@
 # Excel Data Analysis with Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel%20Export-lightgrey)
+
 This project demonstrates how to automate Excel-based sales data analysis using Python, Pandas, and Matplotlib.
 
 The analysis uses the **Sample Superstore** dataset and generates summary reports, category-level insights, and visualizations automatically.
