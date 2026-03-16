@@ -43,6 +43,7 @@ excel-data-analysis-python
 ├── .gitignore
 └── README.md
 
+```
 
 ## Example Visualizations
 
