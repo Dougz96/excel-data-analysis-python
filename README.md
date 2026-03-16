@@ -50,6 +50,16 @@ excel-data-analysis-python
 
 ```
 
+## Results
+
+The analysis generated several insights from the sales dataset, including:
+
+- Total sales and total profit across all transactions
+- Sales distribution across product categories
+- Profit comparison between categories
+- Top-performing sub-categories
+- Monthly sales trend over time
+
 ## Example Visualizations
 
 ### Sales by Category
